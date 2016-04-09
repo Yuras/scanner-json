@@ -1,0 +1,6 @@
+*~
+*.swp
+*.tix
+.stack-work
+stack.yaml
+Makefile
